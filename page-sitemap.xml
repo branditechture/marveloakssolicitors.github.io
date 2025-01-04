@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://marveloakssolicitors.co.uk/</loc>
-		<lastmod>2024-08-23T08:26:23+00:00</lastmod>
+		<lastmod>2025-01-04T18:11:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/image_fx_-1.png</image:loc>
 		</image:image>
@@ -11,26 +11,30 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://marveloakssolicitors.co.uk/fees/</loc>
-		<lastmod>2024-10-07T09:26:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/fees-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://marveloakssolicitors.co.uk/our-team/</loc>
-		<lastmod>2024-10-07T09:15:11+00:00</lastmod>
+		<lastmod>2025-01-04T18:20:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/mojeeb.png</image:loc>
+			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2025/01/Mojid.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/Muyiwa-1298x1536-1-865x1024.jpeg</image:loc>
+			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2025/01/Muyiwa-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/Fahad.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/mag-1024x930.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://marveloakssolicitors.co.uk/our-team-2/</loc>
+		<lastmod>2025-01-04T17:41:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://marveloakssolicitors.co.uk/fees/</loc>
+		<lastmod>2024-10-07T09:26:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/fees-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
