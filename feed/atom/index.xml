@@ -1,44 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
 	>
+	<title type="text">Marvel Oaks Solicitors</title>
+	<subtitle type="text">Law Firm Agency</subtitle>
 
-<channel>
-	<title>Marvel Oaks Solicitors</title>
-	<atom:link href="https://marveloakssolicitors.co.uk/feed/" rel="self" type="application/rss+xml" />
-	<link>https://marveloakssolicitors.co.uk/</link>
-	<description>Law Firm Agency</description>
-	<lastBuildDate>Fri, 16 Aug 2024 05:57:57 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.9</generator>
+	<updated>2024-08-16T05:57:57Z</updated>
 
-<image>
-	<url>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/favicon-xmas-150x150.png</url>
-	<title>Marvel Oaks Solicitors</title>
-	<link>https://marveloakssolicitors.co.uk/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-	<item>
-		<title>Important Visa Categories for US Immigrants and Non-Immigrants</title>
-		<link>https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/</link>
-					<comments>https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/#respond</comments>
-		
-		<dc:creator><![CDATA[dean]]></dc:creator>
-		<pubDate>Fri, 16 Aug 2024 05:57:57 +0000</pubDate>
-				<category><![CDATA[Immigration]]></category>
-		<guid isPermaLink="false">https://marveloakssolicitors.co.uk/?p=950</guid>
+	<link rel="alternate" type="text/html" href="https://marveloakssolicitors.co.uk/" />
+	<id>https://marveloakssolicitors.co.uk/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="https://marveloakssolicitors.co.uk/feed/atom/" />
 
-					<description><![CDATA[The purpose of your intended travel and other facts will determine what type of visa is required under U.S. immigration law. As a visa applicant, you will need to meet all the requirements below in order for your visa application to be considered]]></description>
-										<content:encoded><![CDATA[<h2><span id="1_F-_1_visa_Student_Visa">1. F- 1 visa (Student Visa)</span></h2>
+	<generator uri="https://wordpress.org/" version="6.9">WordPress</generator>
+<icon>https://marveloakssolicitors.co.uk/wp-content/uploads/2024/08/favicon.png</icon>
+	<entry>
+		<author>
+			<name>dean</name>
+							<uri>https://marveloakssolicitors.co.uk/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Important Visa Categories for US Immigrants and Non-Immigrants]]></title>
+		<link rel="alternate" type="text/html" href="https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/" />
+
+		<id>https://marveloakssolicitors.co.uk/?p=950</id>
+		<updated>2024-08-16T05:57:57Z</updated>
+		<published>2024-08-16T05:57:57Z</published>
+		<category scheme="https://marveloakssolicitors.co.uk/" term="Immigration" />
+		<summary type="html"><![CDATA[The purpose of your intended travel and other facts will determine what type of visa is required under U.S. immigration law. As a visa applicant, you will need to meet all the requirements below in order for your visa application to be considered]]></summary>
+
+					<content type="html" xml:base="https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/"><![CDATA[<h2><span id="1_F-_1_visa_Student_Visa">1. F- 1 visa (Student Visa)</span></h2>
 <p>The F-1 student visa is the most common visa for students wanting to study in the United States. It is a temporary visa for foreign students who enter the United States in order to continue their education at an accredited school or college.</p>
 <p>The F-1 Visa (Academic Student) allows you to enter the United States as a full-time student at an accredited college, university, academic high school, elementary school, or other academic institution or in a language training program.</p>
 <h4><span id="Eligibility">Eligibility</span></h4>
@@ -58,21 +49,21 @@ The J-1 Visa is authorized for those who intend to participate in an approved pr
 <li>Must have sufficient funds available for self-support during the entire proposed course of study.<br />
 Seeking help for J-1 Visa (Exchange Visitors)?</li>
 </ol>
-<p><a href="https://premlaw.net/contact/" target="_blank" rel="noopener">Contact us today!</a></p>
+<p><a href="https://premlaw.net/contact/">Contact us today!</a></p>
 <h2><span id="3_Visas_for_STEM_Graduates">3. Visas for STEM Graduates</span></h2>
 <p>Students enrolled in STEM fields (Science, Technology, Engineering, and Math) are eligible to apply for a 36-month visa extension under the Optional Training Program (OPT).</p>
 <h4><span id="Eligibility2">Eligibility</span></h4>
 <ol>
 <li>You must have earned a bachelor’s, master’s, or doctoral degree from a school that is accredited by a U.S. Department of Education-recognized accrediting agency and is certified by the Student and Exchange Visitor Program (SEVP) at the time you submit your STEM OPT extension application.</li>
 </ol>
-<p>For more information about STEM Visas, <a href="https://premlaw.net/contact/" target="_blank" rel="noopener">contact Premium Law firm today!</a></p>
+<p>For more information about STEM Visas, <a href="https://premlaw.net/contact/">contact Premium Law firm today!</a></p>
 <h2><span id="4_Employment-based_visas_-_skilled_and_unskilled_workers">4. Employment-based visas – skilled and unskilled workers</span></h2>
 <p>&nbsp;</p>
 <h2><span id="5_Healthcare_Visas_-_physicians_nurses_etc">5. Healthcare Visas – physicians, nurses, etc.</span></h2>
 <p>Are you looking for employment visas for your Healthcare team physician, Nurses and other healthcare people?</p>
 <p>In the U.S.A, the healthcare industry is highly regulated. Any foreign national that wants to practice in the country must be ready to demonstrate exceptional skills in his or her specialty.</p>
 <p>Whether you are pursuing an immigrant or nonimmigrant visa, you must be thorough and detail-oriented in your visa application. To avoid red flags that can cause delays or denial, it is best to work with an experienced immigration law firm.</p>
-<p><a href="https://premlaw.net/" target="_blank" rel="noopener">Premium Law Firm</a> has a team of immigration lawyers with extensive knowledge of green card and non-immigrant visa applications for healthcare professionals.</p>
+<p><a href="https://premlaw.net/">Premium Law Firm</a> has a team of immigration lawyers with extensive knowledge of green card and non-immigrant visa applications for healthcare professionals.</p>
 <p>At the Premium Law Firm, our skilled immigration attorneys have considerable experience assisting foreign medical professionals with physician, nursing, and other healthcare visas.</p>
 <h2><span id="6_Physician_National_Interest_Waiver_-_PNIW">6. Physician National Interest Waiver – (PNIW)</span></h2>
 <p>The second-preference employment category (EB-2) allows individuals of exceptional ability and individuals who are members of the professions holding advanced degrees to get a Green Card (permanent residence).</p>
@@ -87,7 +78,7 @@ Seeking help for J-1 Visa (Exchange Visitors)?</li>
 </ol>
 <h2><span id="7_National_Interest_Waivers_-_NIW">7. National Interest Waivers – (NIW)</span></h2>
 <p>A national interest waiver is a method of obtaining work-based U.S. lawful permanent residence (a green card) without an employer as the sponsor, which can be used if you are engaged in work that benefits the United States economy, education system, health, or some other aspect of society.</p>
-<p>National interest waivers allow foreign physicians and healthcare professionals to apply for permanent residency without labor certification. To obtain more information about National interest Waivers – (NIW),<a href="https://premlaw.net/contact/" target="_blank" rel="noopener"> contact Premium Law firm today!</a></p>
+<p>National interest waivers allow foreign physicians and healthcare professionals to apply for permanent residency without labor certification. To obtain more information about National interest Waivers – (NIW),<a href="https://premlaw.net/contact/"> contact Premium Law firm today!</a></p>
 <h2><span id="8_I-9_Compliance_B2B_Immigration">8. I-9 Compliance (B2B Immigration)</span></h2>
 <p>Immigration compliance for Employers including l-9 compliance</p>
 <p>Under the Immigration Reform and Control Act of 1986, all employers regardless of company size or the number of employees are subject to criminal and civil sanctions for hiring unauthorized workers.</p>
@@ -96,14 +87,14 @@ Seeking help for J-1 Visa (Exchange Visitors)?</li>
 <li>The employer must ensure that an I-9 form is filled out for all U.S. citizens, permanent residents, and employees with immigrant status.</li>
 <li>Attorneys at the Premium Law Firm can advise you with information on 1-9 and EAD and clarify immigration regulations and administrative rules, provide valuable I-9 compliance guidelines, and help you protect your rights.</li>
 </ol>
-<p><a href="https://premlaw.net/contact/" target="_blank" rel="noopener">Contact us today!</a></p>
+<p><a href="https://premlaw.net/contact/">Contact us today!</a></p>
 <h2><span id="9_L-1_Visa">9. L-1 Visa</span></h2>
 <p>L-1A and L-1B visas may be issued when an employer files a petition to obtain authorization for qualified employees to be allowed to work and live in the United States.</p>
 <h4><span id="Eligibility4">Eligibility</span></h4>
 <ol>
 <li>Under U.S. immigration law, a worker qualifies for an L-1 visa if the person has been employed outside the U.S. by the sponsoring company for at least one continuous year out of the past three years, and is being transferred to the U.S. to work as a manager, executive, or specialized knowledge worker.</li>
 </ol>
-<p>For more information about L-1 visas, <a href="https://premlaw.net/contact/" target="_blank" rel="noopener">contact Premium Law firm today!</a></p>
+<p>For more information about L-1 visas, <a href="https://premlaw.net/contact/">contact Premium Law firm today!</a></p>
 <h2><span id="10_EB-5_visa">10. EB-5 visa</span></h2>
 <p>The EB-5 Immigrant Investor Program is an employment-based visa category that affords immigrant investors the eligibility to become permanent residents in the U.S.</p>
 <p>Yearly, a total number of 10,000 EB-5 visas are made available by the USCIS since its inception in 1992. An understanding of the EB-5 investment amount and the overall application process is key to ensuring a successful application for your green card and permanent residency.</p>
@@ -111,31 +102,34 @@ Seeking help for J-1 Visa (Exchange Visitors)?</li>
 <ol>
 <li>Under this program, investors (and their spouses and unmarried children under 21) are eligible to apply for a Green Card (permanent residence) if they: Make the necessary investment in a commercial enterprise in the United States; and. Plan to create or preserve 10 permanent full-time jobs for qualified U.S. workers.</li>
 </ol>
-<p>To Apply for EB-5 Visa, or to obtain more information about it,<a href="https://premlaw.net/contact/" target="_blank" rel="noopener"> contact Premium Law firm today!</a></p>
+<p>To Apply for EB-5 Visa, or to obtain more information about it,<a href="https://premlaw.net/contact/"> contact Premium Law firm today!</a></p>
 <h2><span id="11_Diversity_Visa_Lottery">11. Diversity Visa Lottery</span></h2>
 <p>The Diversity Immigrant Visa program, also known as the green card lottery, is a United States government lottery program for receiving the United States Permanent Resident Card. The Immigration Act of 1990 established the current and permanent Diversity Visa (DV) program.</p>
 <p>The Diversity Immigrant Visa (DV) Program requires the principal DV applicant to have a high school education, or its equivalent, or two years of qualifying work experience as defined under provisions of U.S. law.</p>
-<p><a href="https://premlaw.net/" target="_blank" rel="noopener">Premium Law firm</a> offers you assistance in official Green Card submission and immigration consultancy service. We will check all your data and photos and help you submit your application to the US authorities in due form and time.</p>
+<p><a href="https://premlaw.net/">Premium Law firm</a> offers you assistance in official Green Card submission and immigration consultancy service. We will check all your data and photos and help you submit your application to the US authorities in due form and time.</p>
 <p>Apply now &amp; get a chance to win a Green Card!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>What Occupations Qualify for the Diversity Visa Lottery?</title>
-		<link>https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/</link>
-					<comments>https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/#respond</comments>
-		
-		<dc:creator><![CDATA[dean]]></dc:creator>
-		<pubDate>Fri, 16 Aug 2024 05:56:27 +0000</pubDate>
-				<category><![CDATA[Immigration]]></category>
-		<guid isPermaLink="false">https://marveloakssolicitors.co.uk/?p=948</guid>
+					<link rel="replies" type="text/html" href="https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="https://marveloakssolicitors.co.uk/important-visa-categories-for-us-immigrants-and-non-immigrants/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>dean</name>
+							<uri>https://marveloakssolicitors.co.uk/</uri>
+						</author>
 
-					<description><![CDATA[The Department of Labor (DOL) O*Net Online database groups job experience into five “job zones.” While many occupations are listed on the DOL Website, only certain specified]]></description>
-										<content:encoded><![CDATA[<p>The Department of Labor (DOL) <a href="https://www.onetonline.org/" target="_blank" rel="noopener">O*Net Online</a> database groups job experience into five “job zones.” While many occupations are listed on the DOL Website, only certain specified occupations qualify for the Diversity Visa Program.</p>
+		<title type="html"><![CDATA[What Occupations Qualify for the Diversity Visa Lottery?]]></title>
+		<link rel="alternate" type="text/html" href="https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/" />
+
+		<id>https://marveloakssolicitors.co.uk/?p=948</id>
+		<updated>2024-08-16T05:56:27Z</updated>
+		<published>2024-08-16T05:56:27Z</published>
+		<category scheme="https://marveloakssolicitors.co.uk/" term="Immigration" />
+		<summary type="html"><![CDATA[The Department of Labor (DOL) O*Net Online database groups job experience into five “job zones.” While many occupations are listed on the DOL Website, only certain specified]]></summary>
+
+					<content type="html" xml:base="https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/"><![CDATA[<p>The Department of Labor (DOL) <a href="https://www.onetonline.org/" target="_blank" rel="noopener">O*Net Online</a> database groups job experience into five “job zones.” While many occupations are listed on the DOL Website, only certain specified occupations qualify for the Diversity Visa Program.</p>
 <p>To qualify for a Diversity Visa on the basis of your work experience, you must have had two years of experience in an occupation that is designated as Job Zone 4 or 5 within the past five years, classified in a Specific Vocational Preparation (SVP) range of 7.0 or higher.</p>
 <p>Please refer to the table below for a list of occupations that are eligible for Green Card registration;</p>
 <table border="1">
@@ -1558,26 +1552,29 @@ Seeking help for J-1 Visa (Exchange Visitors)?</li>
 </tr>
 </tbody>
 </table>
-<p><a href="https://premlaw.net/diversity-visa-lottery/" target="_blank" rel="noopener"><strong>Apply for the DV 2024 Now &gt;&gt;</strong></a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+<p><a href="https://premlaw.net/diversity-visa-lottery/"><strong>Apply for the DV 2024 Now &gt;&gt;</strong></a></p>
+]]></content>
 		
-		
-			</item>
-		<item>
-		<title>Why I’m I Not Eligible for the Diversity Visa Lottery?</title>
-		<link>https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/</link>
-					<comments>https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/#respond</comments>
-		
-		<dc:creator><![CDATA[dean]]></dc:creator>
-		<pubDate>Fri, 16 Aug 2024 05:39:41 +0000</pubDate>
-				<category><![CDATA[Immigration]]></category>
-		<guid isPermaLink="false">https://marveloakssolicitors.co.uk/?p=921</guid>
+					<link rel="replies" type="text/html" href="https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="https://marveloakssolicitors.co.uk/what-occupations-qualify-for-the-diversity-visa-lottery/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>dean</name>
+							<uri>https://marveloakssolicitors.co.uk/</uri>
+						</author>
 
-					<description><![CDATA[Not everyone would get a green checkmark after taking our DV Lottery eligibility quiz. So we felt the need to publish this article to help]]></description>
-										<content:encoded><![CDATA[<p>Not everyone would get a green checkmark after taking our <a href="https://premlaw.net/dv-lottery-eligibility-checker/" target="_blank" rel="noopener">DV Lottery eligibility quiz.</a> So we felt the need to publish this article to help you understand why you may not be eligible.</p>
+		<title type="html"><![CDATA[Why I’m I Not Eligible for the Diversity Visa Lottery?]]></title>
+		<link rel="alternate" type="text/html" href="https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/" />
+
+		<id>https://marveloakssolicitors.co.uk/?p=921</id>
+		<updated>2024-08-16T05:54:11Z</updated>
+		<published>2024-08-16T05:39:41Z</published>
+		<category scheme="https://marveloakssolicitors.co.uk/" term="Immigration" />
+		<summary type="html"><![CDATA[Not everyone would get a green checkmark after taking our DV Lottery eligibility quiz. So we felt the need to publish this article to help]]></summary>
+
+					<content type="html" xml:base="https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/"><![CDATA[<p>Not everyone would get a green checkmark after taking our <a href="https://premlaw.net/dv-lottery-eligibility-checker/" target="_blank" rel="noopener">DV Lottery eligibility quiz.</a> So we felt the need to publish this article to help you understand why you may not be eligible.</p>
 <h3>1.<strong> Country of birth</strong></h3>
 <p>In order to qualify for the Diversity Visa Lottery, you must have been born in a country that sent less than 50,000 immigrants to the United States over the past 5 years.</p>
 <p>Although, there are some yearly variations in the countries that are eligible; Canada, China, India, Mexico, and the United Kingdom never make the list because these countries have sent a historically large number of immigrants to the United States.</p>
@@ -1628,13 +1625,11 @@ Seeking help for J-1 Visa (Exchange Visitors)?</li>
 <p>If you’re selected in the green card lottery, you and your family members will have to meet the same requirements as any other U.S. green card applicant.</p>
 <p>Certain types of criminal records could make you ineligible for a green card.</p>
 <p>There are also some medical conditions that could make it difficult or impossible to get a green card.</p>
-<p><a href="https://premlaw.net/diversity-visa-lottery/" target="_blank" rel="noopener"><strong>Apply for the DV 2024 Lottery Now &gt;&gt;</strong></a></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+<p><a href="https://premlaw.net/diversity-visa-lottery/"><strong>Apply for the DV 2024 Lottery Now &gt;&gt;</strong></a></p>
+]]></content>
 		
-		
-			</item>
-	</channel>
-</rss>
+					<link rel="replies" type="text/html" href="https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="https://marveloakssolicitors.co.uk/why-im-i-not-eligible-for-the-diversity-visa-lottery/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+	</feed>
